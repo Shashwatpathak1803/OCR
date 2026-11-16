@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local OCR data and sample card images
+sample_cards/
+*.sqlite3
